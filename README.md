@@ -1,2 +1,2 @@
-# control-mouse-via-webcam
-Hand detection and controlling mouse with webcam using OpenCV and AutoPy.
+# control-mouse-via-hand-gestures
+Hand detection and controlling mouse with gestures using OpenCV and AutoPy.
